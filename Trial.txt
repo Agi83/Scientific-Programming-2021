@@ -1,0 +1,3 @@
+%Create info about preprocessigng 
+
+%I will start from meancentering
